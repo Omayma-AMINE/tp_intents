@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Account</string>
+    <string name="se_connecter">Login</string>
+    <string name="mot_de_passe">Password :</string>
+    <string name="nom_d_utilisateur">User name :</string>
+    <string name="information">User Account Informations</string>
+    <string name="nom">User Name :</string>
+    <string name="password">Password :</string>
+</resources>

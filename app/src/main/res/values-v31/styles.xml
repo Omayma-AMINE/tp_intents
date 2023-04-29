@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Starting" parent="Theme.AppTpSplash">
+        <item name="android:windowSplashScreenBackground">
+            @color/appTheme
+        </item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/app</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+
+    </style>
+</resources>
